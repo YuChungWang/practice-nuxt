@@ -1,0 +1,23 @@
+[
+  {
+    "name": "season",
+    "path": "/season",
+    "component": "/Users/wangch/Documents/github/practice-nuxt/pages/season/index.vue",
+    "chunkName": "pages/season/index",
+    "_name": "_f49cd79e"
+  },
+  {
+    "name": "vod-seasonId-matchId",
+    "path": "/vod/:seasonId?/:matchId?",
+    "component": "/Users/wangch/Documents/github/practice-nuxt/pages/vod/_seasonId/_matchId.vue",
+    "chunkName": "pages/vod/_seasonId/_matchId",
+    "_name": "_6b349ea2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/wangch/Documents/github/practice-nuxt/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_515adbd7"
+  }
+]
